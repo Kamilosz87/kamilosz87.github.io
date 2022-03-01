@@ -12,17 +12,17 @@ const projekty = [
     {
         title: "Projekt 1",
         desc: "Opis projektu 1",
-        src: "/img/tulips.jpg",
+        src: "img/tulips.jpg",
     },
     {   
         title: "Projekt 2",
         desc: "Opis projektu 2",
-        src: "/img/penguins.jpg",
+        src: "img/penguins.jpg",
     },
     {
         title: "Projekt 3",
         desc: "Opis projektu 3",
-        src: "/img/lighthouse.jpg",
+        src: "img/lighthouse.jpg",
     }
 
 ]
